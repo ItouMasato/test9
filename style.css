@@ -1,0 +1,77 @@
+.video{
+  margin-top: 130px;
+  text-align: center;
+}
+
+.video iframe{
+ width: 720px;
+ height: 405px;
+}
+
+body{
+  margin: 0px;
+  padding: 0px;
+  background: #FFF;
+  width: 100vw;
+  height: 80vh;
+}
+h1{
+  margin: 0px 0px 0px;
+}
+h2{
+  margin: 50px 20px 0px;
+}
+h3{
+  margin: 380px 270px 0px;
+}
+h4{
+  margin: 10px 0px 0px 290px;
+  position: absolute;
+}
+h5{
+  margin: 0px 0px 0px 570px;
+  position: absolute;
+}
+ul{
+  padding-left: 0;
+  margin: 0;
+}
+li{
+  margin: 1px 4px;
+  float: left;
+  list-style: none;
+}
+.wrapper{
+  background-size: 100% 100%;
+}
+.up{
+  margin: 0px 0px 5px;
+}
+.kankei{
+  margin: 20px 0px 5px;
+}
+.grid{
+  position: absolute;
+  display: flex;
+}
+.grid1{
+  width: 325px;
+}
+.grid2{
+  width: 110px;
+}
+.grid3{
+  width: 110px;
+}
+.grid4{
+  width: 110px;
+}
+.grid5{
+  width: 220px;
+}
+.grid6{
+  width: 90px;
+}
+.grid7{
+  width: 90px;
+}
